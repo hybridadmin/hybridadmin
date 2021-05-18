@@ -6,8 +6,8 @@ Welcome to my Github profile page where you can get to know me...
 
 * 🧐   Interested in solutions architecture.
 * 🎓   Bachelor of Science with Honours in Computing and Information Systems - London Metropolitan University.
-* 💼   DevOps Engineer/Freelance .
-* 🌱   Love learning new technologies(Cloud, Virtualization, Docker, DNS etc).
+* 💼   DevOps Engineer/Freelance.
+* 🌱   Love learning new technologies (i.e Cloud, Virtualization, Ansible, Docker, DNS etc).
 * ⛵   Encouraging people for open source collaborations.
 
 
@@ -27,7 +27,7 @@ Welcome to my Github profile page where you can get to know me...
 </p>
 
 <p  align="center">
-<img src="https://visitor-badge.laobi.icu/badge?page_id=hybridadmin" alt="visitor badge"/>       
+<img src="https://visitor-badge.laobi.icu/badge?page_id=hybridadmin" alt="visitor badge"/>
 </p>
 
 </p>
