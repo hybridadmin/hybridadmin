@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--- ![](https://github.com/ngoduykhanh/ngoduykhanh/blob/main/banner.png) --->
+<!--- ![](https://github.com/hybridadmin/hybridadmin/blob/main/banner.png) --->
 
 Welcome to my Github profile page where you can get to know me...
 
@@ -11,11 +11,11 @@ Welcome to my Github profile page where you can get to know me...
 * ⛵   Encouraging people for open source collaborations.
 
 
-<a href="https://github.com/ngoduykhanh">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngoduykhanh&hide=html,css&theme=radical&layout=compact" />
+<a href="https://github.com/hybridadmin">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hybridadmin&hide=html,css&theme=radical&layout=compact" />
 </a>
-<a href="https://github.com/ngoduykhanh">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ngoduykhanh&count_private=true&theme=radical&hide=contribs&show_icons=true&hide_title=true" />
+<a href="https://github.com/hybridadmin">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hybridadmin&count_private=true&theme=radical&hide=contribs&show_icons=true&hide_title=true" />
 </a>
 
 <hr>
@@ -27,7 +27,7 @@ Welcome to my Github profile page where you can get to know me...
 </p>
 
 <p  align="center">
-<img src="https://visitor-badge.laobi.icu/badge?page_id=ngoduykhanh" alt="visitor badge"/>       
+<img src="https://visitor-badge.laobi.icu/badge?page_id=hybridadmin" alt="visitor badge"/>       
 </p>
 
 </p>
