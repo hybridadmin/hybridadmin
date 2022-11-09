@@ -23,7 +23,7 @@ Welcome to my Github profile page where you can get to know me...
   <i>Take a look at my repositories and let's get in touch!</i>
 
 <p align="center">
-<a href= "https://www.linkedin.com/in/tinashe-chikomo/"><img src="https://image.flaticon.com/icons/png/32/174/174857.png"/></a>
+<a href= "https://www.linkedin.com/in/tinashe-chikomo/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
 <p  align="center">
