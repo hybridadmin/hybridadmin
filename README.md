@@ -7,7 +7,7 @@ Welcome to my Github profile page where you can get to know me...
 * 🧐   Interested in Solutions Architecture with a Cloud/Infrastructure focus.
 * 🎓   Bachelor of Science with Honours in Computing and Information Systems - London Metropolitan University.
 * 💼   DevOps Engineer/Freelance.
-* 🌱   Love learning new technologies (i.e Cloud, Virtualization, Azure, AWS, Hyper-V, Configuration management, Backup management, Ansible, Docker, DNS etc).
+* 🌱   Love learning new technologies (i.e Cloud (AWS, Azure, GCP), Kubernetes, Virtualization (KVM, Hyper-V), Configuration/Backup management, Ansible, Docker, DNS etc).
 * ⛵   Encouraging people for open source collaborations.
 
 
